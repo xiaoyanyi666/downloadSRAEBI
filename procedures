@@ -1,0 +1,5 @@
+#Download raw sequence reads (bulk and single cell) via European Bioinformatics Institue 
+1. Search the SRP* identifier (e.g., https://www.ncbi.nlm.nih.gov/sra/?term=SRR9123032) or PRJNA* (PRJNA544371)
+2. Go to the EBI website (https://www.ebi.ac.uk/ena/browser/view/PRJNA544731)
+3. Go to page middle (get Gownload script)
+4. Go to linux and run the *.sh script
